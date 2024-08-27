@@ -81,7 +81,7 @@ I am a creative, time punctual👩‍🎓, dedicated🎯, goal-oriented individu
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-<!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyoVictor)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nguyo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyoVictor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
@@ -91,11 +91,11 @@ I am a creative, time punctual👩‍🎓, dedicated🎯, goal-oriented individu
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="#" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/NguyoVictor" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="www.linkedin.com/in/victor-nguyo-197919260" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="#" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="victornguyo32@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@yashitanamdeo's Holopin board](https://holopin.me/yashitanamdeo)](https://holopin.io/@yashitanamdeo)
+
